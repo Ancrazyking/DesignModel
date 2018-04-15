@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterModel/AdapterModel.iml" filepath="$PROJECT_DIR$/AdapterModel/AdapterModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorModel/DecoratorModel.iml" filepath="$PROJECT_DIR$/DecoratorModel/DecoratorModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignModel.iml" filepath="$PROJECT_DIR$/DesignModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryModel/FactoryModel.iml" filepath="$PROJECT_DIR$/FactoryModel/FactoryModel.iml" />
